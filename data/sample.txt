@@ -1,0 +1,4 @@
+FastAPI is a modern, fast web framework for building APIs with Python.
+FAISS is a library for efficient similarity search on dense vectors.
+Retrieval-Augmented Generation (RAG) combines search and generation.
+Hugging Face provides free transformer models for NLP tasks.
