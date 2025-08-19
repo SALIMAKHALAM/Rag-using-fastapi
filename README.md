@@ -16,13 +16,14 @@ Installation:
 1.Clone the repo:
 
 git clone https://github.com/your-username/rag-api-framework.git
+
 cd rag-api-framework
 
 
 2.Create a virtual environment:
 
 python -m venv venv
-source venv/bin/activate   # Linux/Mac
+
 venv\Scripts\activate      # Windows
 
 
