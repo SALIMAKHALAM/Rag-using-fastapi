@@ -1,0 +1,9 @@
+node_modules
+dist
+npm-debug.log
+yarn-error.log
+.cache
+.env
+.vscode/
+.idea/
+.DS_Store

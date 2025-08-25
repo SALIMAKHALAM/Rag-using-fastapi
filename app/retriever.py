@@ -23,4 +23,4 @@ class Retriever:
 
     def search(self, query_embedding, k=3):
         distances, indices = self.index.search(query_embedding, k)
-        return indices[0]
+        return indices[0], distances[0]   

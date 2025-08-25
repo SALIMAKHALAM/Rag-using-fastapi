@@ -3,4 +3,9 @@ uvicorn
 faiss-cpu
 sentence-transformers
 transformers
-torch
+torch==2.3.0+cpu
+torchvision==0.18.0+cpu
+torchaudio==2.3.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+fuzzywuzzy
+python-Levenshtein  # optional but makes fuzzy matching faster
